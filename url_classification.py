@@ -6,7 +6,7 @@ from urllib.parse import urlsplit
 from bs4 import BeautifulSoup
 ##import nltk
 
-#nltk.download('stopwords')
+#nltk.download('stopwords') 
 #from nltk.corpus import stopwords
 import pandas as pd
 import re
